@@ -1,0 +1,42 @@
+'	0	0	0	0	8500
+Cranium without mandible	222	204	227	35	1010
+Parietal bone	199	209	230	35	620
+Frontal bone	79	120	214	70	620
+Occipital bone	74	36	94	305	810
+Temporal bone	20	33	66	390	865
+Ethmoid bone	0	36	125	595	875
+Crista galli	0	166	222	545	620
+Lacrimal bone	130	217	212	625	710
+Lacrimal bone	0	92	84	625	710
+Nasal bone	171	222	189	600	710
+Maxilla	0	99	56	610	710
+Zygomatic bone	51	115	33	590	870
+Zygomatic bone	105	92	0	560	870
+Mandible	92	92	79	735	1250
+First cervical vertebra	71	51	51	800	930
+Second cervical vertebra	138	107	112	825	1040
+Third cervical vertebra	217	201	199	1000	1125
+Fourth cervical vertebra	66	74	82	1090	1205
+Fifth cervical vertebra	173	173	173	1170	1305
+Sixth cervical vertebra	140	143	145	1250	1405
+Seventh cervical vertebra	209	209	204	1345	1500
+First thoracic vertebra	232	227	217	1405	1600
+Second thoracic vertebra	207	201	196	1490	1705
+Third thoracic vertebra	135	135	133	1595	1815
+Fourth thoracic vertebra	59	51	28	1715	1985
+Fifth thoracic vertebra	41	46	38	1830	2160
+Sixth thoracic vertebra	69	46	46	1945	2260
+Seventh thoracic vertebra	230	219	209	2075	2365
+Eighth thoracic vertebra	148	135	122	2200	2500
+Ninth thoracic vertebra	184	171	158	2320	2625
+Tenth thoracic vertebra	125	112	97	2465	2740
+Eleventh thoracic vertebra	181	176	173	2600	2860
+Twelfth thoracic vertebra	207	196	184	2765	2990
+First lumbar vertebra	71	64	38	2940	3175
+Second lumbar vertebra	99	84	18	3095	3345
+.
+.
+Ignore
+.
+.
+ENDLINE	0	0	0	0	0
